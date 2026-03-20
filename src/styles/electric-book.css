@@ -1,0 +1,18 @@
+.wmde-markdown,
+.w-md-editor-text,
+.w-md-editor-text-input,
+.w-md-editor-text-pre,
+.w-md-editor-text-input,
+.w-md-editor-preview {
+  font-family: "Noto Serif SC", "Source Han Serif SC", "PingFang SC", serif;
+}
+
+.w-md-editor {
+  --md-editor-bg-color: #fffdf8;
+  --md-editor-border-color: #d8c9b6;
+}
+
+.w-md-editor-toolbar {
+  background: #f2e7d7;
+  border-bottom: 1px solid #d8c9b6;
+}
